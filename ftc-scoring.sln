@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ftc-scoring", "ftc-scoring.vcxproj", "{07C3121F-7413-4CB7-B5E7-622509706950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Run Tests|x64 = Run Tests|x64
+		Run Tests|x86 = Run Tests|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Debug|x64.ActiveCfg = Debug|x64
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Debug|x64.Build.0 = Debug|x64
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Debug|x86.ActiveCfg = Debug|Win32
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Debug|x86.Build.0 = Debug|Win32
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Release|x64.ActiveCfg = Release|x64
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Release|x64.Build.0 = Release|x64
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Release|x86.ActiveCfg = Release|Win32
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Release|x86.Build.0 = Release|Win32
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Run Tests|x64.ActiveCfg = Run Tests|x64
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Run Tests|x64.Build.0 = Run Tests|x64
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Run Tests|x86.ActiveCfg = Run Tests|Win32
+		{07C3121F-7413-4CB7-B5E7-622509706950}.Run Tests|x86.Build.0 = Run Tests|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764C4BAB-8F9C-499A-9B1B-B173F1176029}
+	EndGlobalSection
+EndGlobal
